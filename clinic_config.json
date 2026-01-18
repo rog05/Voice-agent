@@ -1,0 +1,12 @@
+{
+  "clinic_name": "Sample Medical Clinic",
+  "working_hours": {
+    "monday_friday": "9:00 AM - 6:00 PM",
+    "saturday": "9:00 AM - 2:00 PM",
+    "sunday": "Closed"
+  },
+  "location": "123 Main Street, Mumbai, Maharashtra",
+  "consultation_fee": "₹500",
+  "doctor_name": "Dr. Sharma",
+  "languages_supported": ["English", "Hindi", "Marathi"]
+}
